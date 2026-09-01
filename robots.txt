@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://huni1680-hub.github.io/sitemap.xml
